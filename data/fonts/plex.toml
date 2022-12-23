@@ -1,11 +1,11 @@
 # Font style metadata
-name = "IBM Plex Sans"
+name = "IBM Plex Sans Arabic"
 
 # Optional Google font URL
-google_fonts = "family=IBM+Plex+Sans:wght@300;400;600"
+google_fonts = "family=IBM+Plex+Sans+Arabic:wght@300;400;700"
 
 # Font families
-heading_font = "IBM Plex Sans"
-body_font = "IBM Plex Sans"
-nav_font = "IBM Plex Sans"
-mono_font = "IBM Plex Sans"
+heading_font = "IBM Plex Sans Arabic"
+body_font = "IBM Plex Sans Arabic"
+nav_font = "IBM Plex Sans Arabic"
+mono_font = "IBM Plex Sans Arabic"
