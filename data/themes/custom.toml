@@ -3,10 +3,10 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#2962ff"
+  primary = "#a0301c"
 
   # Menu
-  menu_primary = "rgb(247, 250, 252)"
+  menu_primary = "#a0301c"
   menu_text = "#34495e"
   menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
@@ -16,10 +16,10 @@ name = "Starter Blog"
   home_section_even = "rgb(247, 250, 252)"
 
 [dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
+  primary = "#cf7272"
+  link = "#cf7272"
+  link_hover = "#cf7272"
+  background = "#252525"
+  home_section_odd = "#252525"
+  home_section_even = "#252525"
+  menu_primary = "#252525"
