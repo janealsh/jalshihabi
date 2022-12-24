@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Researcher
+    company: The Working Centre/Region of Waterloo
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Kitchener/Waterloo, Ontario
+    date_start: '2021-09-20'
+    date_end: '2021-10-16'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Conducted “point-in-time” research over the phone for the Region of Waterloo to assess hidden homelessness among the Arabic-speaking community
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Carried out instantaneous interpretation while completing surveys and used Excel to digitally log results
+
+  - title: Instructor
+    company: STEMOTICS
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cambridge, Ontario
+    date_start: '2021-07-21'
+    date_end: '2022-08-23'
+    description: Planned and executed daily lessons related to coding, animation, game design, and robotics for children aged 4-14.
 
 design:
   columns: '1'
