@@ -25,19 +25,19 @@ experience:
   - title: Researcher
     company: The Working Centre/Region of Waterloo
     company_url: ''
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Kitchener/Waterloo, Ontario
     date_start: '2021-09-20'
     date_end: '2021-10-16'
     description: |2-
-        Conducted “point-in-time” research over the phone for the Region of Waterloo to assess hidden homelessness among the Arabic-speaking community
+        Conducted “point-in-time” research over the phone for the Region of Waterloo to assess hidden homelessness among the Arabic-speaking community.
 
-        * Carried out instantaneous interpretation while completing surveys and used Excel to digitally log results
+        * Carried out instantaneous interpretation while completing surveys and used Excel to digitally log results.
 
   - title: Instructor
     company: STEMOTICS
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: Cambridge, Ontario
     date_start: '2021-07-21'
     date_end: '2022-08-23'

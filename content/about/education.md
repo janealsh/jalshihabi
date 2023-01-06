@@ -22,26 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Systems Design Engineering Undergraduate Studies
+    company: University of Waterloo
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    # company_logo: org-x
+    location: Waterloo, Ontario
+    date_start: '2022-09-03'
+    date_end: '2027-04-20'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        Currently finished 1A term of Systems Design Engineering. Courses include:
+         * SYDE 121 – Digital Computation
+         * SYDE 161 – Introduction to Design
+         * SYDE 111 – Calculus 1
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: High School Diploma (Full IB)
+    company: Cameron Heights Collegiate Institute
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    # company_logo: org-x
+    location: Kitchener, Ontario
+    date_start: '2018-09-06'
+    date_end: '2022-06-21'
+    description: |2-
+        Completed the high school while achieving a full IB diploma and an OSSD diploma. My extracurriculars include:
+         * Swim team
+         * Orchestra
+         * Band
+         * Cross country
+         * Track and field
 
 design:
   columns: '1'

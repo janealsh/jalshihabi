@@ -1,6 +1,6 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: My first project
+summary: Not sure what it will be yet.
 tags:
   - CV
 date: 2022-01-01

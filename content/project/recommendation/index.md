@@ -1,6 +1,6 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: My third project
+summary: It'll be a cool project.
 tags:
   - ML
 date: 2022-01-01
