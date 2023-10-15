@@ -22,9 +22,9 @@ superuser: true
 status:
   icon: 👹
 title: Jane Al-Shihabi // جين الشهابي
-role: Undergrad Student at the University of Waterloo
+role: Undergraduate Student at the University of Waterloo
 ---
 
-I'm an undergraduate student at the University of Waterloo studying Systems Design Engineering, heading into my 1B term. I have recently been interested in using programming to change the world for the better; I just don't have a clear idea on _how_ yet.
+I'm a student studying Systems Design Engineering at the University of Waterloo, heading into my 2A term. I have recently been interested in using programming to change the world for the better; I just don't have a clear idea on _how_ yet.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
