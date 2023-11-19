@@ -51,11 +51,10 @@ experience:
     date_start: '2023-01-09'
     date_end: '2023-04-28'
     description: |2-
-    Developed software for a manufacturing execution system used in an airbag manufacturing facility. 
-
-    * Designed and performed regression test cases for each task to ensure high quality system performance
-    * Conducted a site visit to discuss customer’s needs for the MES and to establish a positive rapport
-    * Trained in agile methodologies; was part of a scrum team with daily standups and sprint planning/overview meetings
+      Developed software for a manufacturing execution system used in an airbag manufacturing facility. 
+      * Designed and performed regression test cases for each task to ensure high quality system performance
+      * Conducted a site visit to discuss customer’s needs for the MES and to establish a positive rapport
+      * Trained in agile methodologies; was part of a scrum team with daily standups and sprint planning/overview meetings
 
   - title: Product Manager
     company: Maplesoft
