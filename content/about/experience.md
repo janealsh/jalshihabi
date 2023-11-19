@@ -26,7 +26,7 @@ experience:
     company: The Working Centre/Region of Waterloo
     company_url: ''
     # company_logo: org-gc
-    location: Kitchener/Waterloo, Ontario
+    location: Kitchener/Waterloo, ON
     date_start: '2021-09-20'
     date_end: '2021-10-16'
     description: |2-
@@ -38,10 +38,34 @@ experience:
     company: STEMOTICS
     company_url: ''
     # company_logo: org-x
-    location: Cambridge, Ontario
+    location: Cambridge, ON
     date_start: '2021-07-21'
     date_end: '2022-08-23'
     description: Planned and executed daily lessons related to coding, animation, game design, and robotics for children aged 4-14.
+
+  - title: Software Developer
+    company: Brock Solutions
+    company_url: 'https://www.brocksolutions.com/'
+    #company_logo: 
+    location: Kitchener, ON
+    date_start: '2023-01-09'
+    date_end: '2023-04-28'
+    description: |2-
+    Developed software for a manufacturing execution system used in an airbag manufacturing facility. 
+
+    * Designed and performed regression test cases for each task to ensure high quality system performance
+    * Conducted a site visit to discuss customer’s needs for the MES and to establish a positive rapport
+    * Trained in agile methodologies; was part of a scrum team with daily standups and sprint planning/overview meetings
+
+  - title: Product Manager
+    company: Maplesoft
+    company_url: 'https://www.maplesoft.com/'
+    # company_logo:
+    location: Waterloo, ON
+    date_start: '2023-09-05'
+    date_end: '2023-12-22'
+    description: Performed product management and design tasks for math education software products.
+
 
 design:
   columns: '1'

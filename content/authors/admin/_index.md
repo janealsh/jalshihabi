@@ -16,15 +16,15 @@ social:
 organizations:
   - name: University of Waterloo
     url: https://uwaterloo.ca/
-  - name: Brock Solutions
-    url: https://www.brocksolutions.com/
+  - name: Maplesoft
+    url: https://www.maplesoft.com/
 superuser: true
 status:
   icon: 👹
-title: Jane Al-Shihabi // جين الشهابي
+title: Jane Al-Shihabi - جين الشهابي
 role: Undergraduate Student at the University of Waterloo
 ---
 
-I'm a student studying Systems Design Engineering at the University of Waterloo, heading into my 2A term. I have recently been interested in using programming to change the world for the better; I just don't have a clear idea on _how_ yet.
+I'm a student studying Systems Design Engineering at the University of Waterloo, heading into my 2A term. I have recently been interested in using programming and design to change the world for the better. My next step is to just figure out _how_.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
