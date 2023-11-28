@@ -30,10 +30,10 @@ experience:
     date_start: '2022-09-03'
     date_end: '2027-04-20'
     description: |2-
-        Currently finished 1A term of Systems Design Engineering. Courses include:
-         * SYDE 121 – Digital Computation
-         * SYDE 161 – Introduction to Design
-         * SYDE 111 – Calculus 1
+        Currently finished 1B term of Systems Design Engineering. Courses include:
+         * SYDE 223 – Data Structures & Algorithms
+         * SYDE 162 – Human Factors in Design
+         * SYDE 112 – Calculus 2
 
   - title: High School Diploma (Full IB)
     company: Cameron Heights Collegiate Institute
