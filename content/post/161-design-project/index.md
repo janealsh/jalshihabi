@@ -3,7 +3,7 @@
 
 title: "SYDE 161 Design Project"
 subtitle: "The process of building the wheel hoe."
-summary: "For our SYDE 161 (Introduction to Design) course, we were tasked with making a gardening tool for an alien species called the TsTsians. The desing process spanned four months; here's what happened."
+summary: "For our SYDE 161 (Introduction to Design) course, we were tasked with making a gardening tool for an alien species called the TsTsians. The design process spanned four months; here's what happened."
 authors: [Jane Al-Shihabi]
 tags: [ML]
 categories: []

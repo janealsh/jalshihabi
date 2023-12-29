@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jane Al-Shihabi # Website name
-baseURL: 'https://janeal-shihabi.com/' # Website URL
+baseURL: 'https://jalshihabi.xyz/' # Website URL
 
 ############################
 ## PAGE OPTIONS

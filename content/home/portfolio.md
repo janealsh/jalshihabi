@@ -28,9 +28,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Project 1
+    - name: UX/UI
       tag: ML
-    - name: Project 2
+    - name: Software
       tag: CV
 
 design:
