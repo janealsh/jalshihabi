@@ -25,14 +25,14 @@ experience:
   - title: Systems Design Engineering Undergraduate Studies
     company: University of Waterloo
     company_url: ''
-    # company_logo: org-x
+    company_logo: org-x
     location: Waterloo, Ontario
     date_start: '2022-09-03'
     date_end: '2027-04-20'
     description: |2-
-        Currently finished 1B term of Systems Design Engineering. Courses include:
-         * SYDE 223 – Data Structures & Algorithms
+        Currently in 2A term of Systems Design Engineering. Relevant courses completed until now include:
          * SYDE 162 – Human Factors in Design
+         * SYDE 223 – Data Structures & Algorithms
          * SYDE 112 – Calculus 2
 
   - title: High School Diploma (Full IB)

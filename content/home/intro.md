@@ -19,6 +19,6 @@ author: admin
 ---
 
 Hi, there! I'm **Jane**, a Systems Thinker.
-{style="font-size: 1.2rem; background: #D35F5F; background: linear-gradient(to right, #DE5B43 0%, #DE5B43 30%, #DE5B43 60%, #DE5B43 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #A35A5A; background: linear-gradient(to right, ##EB7575 0%, ##EB7575 30%, ##EB7575 60%, ##EB7575 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below.
