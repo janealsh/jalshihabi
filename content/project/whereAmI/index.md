@@ -1,9 +1,10 @@
 ---
-title: Where Am I? App
-date: 2022-01-01
-summary: A Figma wireframe of an application combining geography and indigenous culture.
+title: Where Am I?
+date: 2024-01-01
+weight: 10
+summary: A Figma prototype of an application combining maps and information about indigenous peoples.
 # An application that combines geography and indigenous history. Where Am I locates you on the map and tells you which indigenous peoples' land you are on, along with information about its culture. rightmost project tile on website
 tags:
   - ML
-external_link: https://www.figma.com/file/0txYMPeB4lk4b1WY09lzlE/Where-Am-I%3F?type=design&node-id=0%3A1&mode=design&t=L5XlQYFXApTAu0cF-1
+external_link: /where_am_i/
 ---

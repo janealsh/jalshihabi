@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: I'm interested in Yoon Jeonghan and Seventeen.
+bio: A systems design engineering student.
 social:
   - display:
       header: false
@@ -25,4 +25,4 @@ role: Undergraduate Student at the University of Waterloo
 
 I'm a student at the University of Waterloo in the Systems Design Engineering program, currently in my 2A term. I have recently been interested in using technology and design to create positive change in the world. Now, my next step is to figure out _how_.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/uxuiresume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

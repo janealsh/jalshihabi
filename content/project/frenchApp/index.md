@@ -1,5 +1,6 @@
 ---
 title: Word of the Day
+weight: 30
 summary: Software-focused project showing a word of the day, or "mot du jour", created using Svelte. Still a WIP, but coming very soon! GitHub repo [here](https://github.com/janealsh/french-app).
 tags:
   - CV

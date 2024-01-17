@@ -63,8 +63,10 @@ experience:
     location: Waterloo, ON
     date_start: '2023-09-05'
     date_end: '2023-12-22'
-    description: Performed product management and design tasks for math education software products.
-
+    description: |2-
+      Managed the conception of features from beginning to end.
+        * Defined the problem, identified users, researched solutions and designed a Figma wireframe accordingly to present to CEO and Director of Product Management. Then collaborated with developers, UI/UX designer, and QA to create final product
+        * After brainstorming sessions with Senior Product Manager, created Figma prototypes of various potential feature V1s
 
 design:
   columns: '1'

@@ -6,7 +6,7 @@ body {
 }
 
 .article-container {
-  background-color: #fff;
+  background-color: #f7fafc;
   border-radius: 15px;
 }
 
@@ -114,4 +114,66 @@ ul.network-icon .big-icon {
 
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
+}
+
+// For top margins
+.spacetop { 
+  margin-top: 100px 
+}
+
+// To center text
+.important-text {
+  text-align: center;
+  font-size: 1.3rem
+}
+
+// Portfolio image style
+.portfolio-img {
+  float: inline-end;
+  margin: 25px 50px;
+  border-radius: 3%;
+  border: 2px solid #ddd;
+  padding: 20px;
+  width: 400px;
+}
+
+// Portfolio image style
+.portfolio-img-alt {
+  float: inline-end;
+  margin-left: 40px;
+  border-radius: 3%;
+  padding: 20px;
+  width: 300px;
+}
+
+// Figma change image
+.portfolio-figma-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
+  margin-bottom: 2%;
+  width: 80%;
+}
+
+// Figma change image
+.collab-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
+  margin-bottom: 2%;
+  width: 40%;
+  border-radius: 3%;
+}
+
+h1 {
+  font-family: 'IBM Plex Serif';
+  font-weight: 600;
+  
+}
+
+.footnote {
+  font-size: 80%;
+  color: rgb(145, 145, 145);
 }
