@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: custom
-  theme_night: custom
+  #theme_night: custom
   font: plex
   font_size: L
 
@@ -35,7 +35,7 @@ header:
     align: r
     show_logo: false
     show_language: false
-    show_day_night: true
+    #show_day_night: true
     show_search: true
     highlight_active_link: false
 

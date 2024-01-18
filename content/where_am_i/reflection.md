@@ -14,7 +14,7 @@ content:
     - icon: link
       icon_pack: fas
       name: Figma design file
-      link: "https://www.figma.com/file/0txYMPeB4lk4b1WY09lzlE/Where-Am-I%3F?type=design&node-id=1039%3A419&mode=design&t=O5LASUvuZ070DFtZ-1"
+      link: "https://www.figma.com/file/0txYMPeB4lk4b1WY09lzlE/Where-Am-I%3F?type=design&node-id=0%3A1&mode=design&t=3W2OEF1qH0kA4Qyi-1"
 
 design:
   columns: '1'

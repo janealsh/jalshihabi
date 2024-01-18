@@ -1,5 +1,5 @@
 ---
-widget: contact
+widget: blank
 
 # This file represents a page section.
 headless: true

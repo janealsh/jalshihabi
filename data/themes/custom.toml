@@ -12,8 +12,8 @@ name = "Starter Blog"
   menu_title = "#ba4040"
 
   # Home sections
-  home_section_odd = "#f7fafc"
-  home_section_even = "#f7fafc"
+  home_section_odd = "#fff"
+  home_section_even = "#fff"
 
 [dark]
   primary = "#cf7272"
