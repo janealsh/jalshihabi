@@ -35,7 +35,7 @@ content:
 
 design:
   columns: '1'
-  view: showcase
+  view: masonry
   flip_alt_rows: true
   background: {}
   spacing:

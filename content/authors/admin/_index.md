@@ -18,9 +18,9 @@ organizations:
     url: https://uwaterloo.ca/
 superuser: true
 status:
-  icon: 👹
+  icon: 🍉
 title: Jane Al-Shihabi - جين الشهابي
-role: Undergraduate Student at the University of Waterloo
+role: Undergraduate Student @ UW
 ---
 
 I'm a student at the University of Waterloo in the Systems Design Engineering program, currently in my 2A term. I have recently been interested in using technology and design to create positive change in the world. Now, my next step is to figure out _how_.

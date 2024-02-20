@@ -4,12 +4,12 @@ name = "Starter Blog"
 [light]
   # Primary
   primary = "#cf7272"
-
+  
   # Menu
   menu_primary = "#cf7272"
-  menu_text = "#252525"
-  menu_text_active = "#ba4040" # darker than cf7272
-  menu_title = "#ba4040"
+  menu_text = "#fff"
+  menu_text_active = "#8d3030"
+  menu_title = "#6b3498"
 
   # Home sections
   home_section_odd = "#fff"
