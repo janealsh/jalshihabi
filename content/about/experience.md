@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Software QA
+    company: Government of Canada - Transport Canada
+    company_url: 'https://tc.canada.ca/en'
+    # company_logo:
+    location: Toronto, ON
+    date_start: '2024-05-13'
+    date_end: '2024-08-23'
+    description: |2-
+      Executed and documented over 200 manual tests for a security application platform for two major production releases.
+        * Wrote automated test scripts in Python using Selenium to accelerate existing manual testing processes
+        * Collaborated with developers to efficiently locate root cause of bugs and resolve them under tight deadline constraints
+        * Participated in daily scrum and sprint grooming meetings and presented testing findings to evaluate bug priority
+
+
   - title: Product Manager
     company: Maplesoft
     company_url: 'https://www.maplesoft.com/'
