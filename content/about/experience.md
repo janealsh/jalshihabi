@@ -36,6 +36,19 @@ experience:
         * Collaborated with developers to efficiently locate root cause of bugs and resolve them under tight deadline constraints
         * Participated in daily scrum and sprint grooming meetings and presented testing findings to evaluate bug priority
 
+  - title: Product Designer + Software Developer
+    company: UW Blueprint
+    company_url: 'https://uwblueprint.org/'
+    # company_logo:
+    location: Waterloo, ON
+    date_start: '2024-05-09'
+    date_end: '2024-12-20'
+    description: |2-
+      Was a product designer on the UW Blueprint project team Don Efficace, and a Software Developer on the Leukemia and Lymphoma Society of Canada project team.
+        * Designed the user interface for a non-profit organization’s donation platform using Figma in a team of 3 designers
+        * Conducted user research, consulted developers, and participated in client meetings to validate and/or iterate on designs
+        * Using React for frontend, APIs and Typescript for backend processes, and custom databases to develop a participant-volunteer matching platform for the Leukemia and Lymphoma Society of Canada
+
 
   - title: Product Manager
     company: Maplesoft
